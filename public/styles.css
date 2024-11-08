@@ -1,0 +1,23 @@
+body {
+    background-color: orange;
+  }
+  hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+  }
+  h1 {
+    color: purple;
+  }
+  h2{
+    color: green;
+  }
+  h3 {
+  color: green;
+  }
+  h4{
+    color:green;
+  }
+  
